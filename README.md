@@ -32,7 +32,7 @@
 
 [![Tools](https://skillicons.dev/icons?i=idea,vscode,eclipse,git,github,gitlab,maven,linux,vim,postman,prometheus,grafana)](https://github.com/tandpfun/skill-icons)
 
-## Github Summary <a href=""><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="30" height="30" /></a>
+## Github Summary <a href="https://github.com/qkrdmstlr3/techstack-generator"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="30" height="30" /></a>
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xszhu522&theme=ambient_gradient&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=xszhu522&theme=ambient_gradient&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
